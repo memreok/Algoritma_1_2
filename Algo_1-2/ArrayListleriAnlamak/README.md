@@ -1,0 +1,2 @@
+# ArrayListleriAnlamak
+arraylistler
